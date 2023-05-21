@@ -5,6 +5,9 @@
 *.autosave
 *.a
 *.core
+*.moc
+*.o
+*.obj
 *.orig
 *.rej
 *.so
